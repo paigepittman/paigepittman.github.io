@@ -1,0 +1,46 @@
+.nav-wrapper {
+  background-color: rgb(29, 28, 29);
+  font-family: 'Raleway', sans-serif;
+
+}
+
+.
+.page-footer {
+  background-color: rgb(29, 28, 29);
+
+}
+
+.card-image {
+  overflow: hidden;
+}
+.card {
+  height: 400px;
+  margin: 10px;
+}
+body {
+  background-color: rgb(26, 27, 25);
+}
+h3, h4 {
+  font-family: 'Questrial', sans-serif;
+
+
+}
+.horizontal {
+   width: 400px;
+
+ }
+
+.connect {
+   width: 300px;
+   height: 220px;
+
+ }
+ .connect-me {
+   float: right;
+ }
+.list {
+  float: left;
+}
+ .list2 {
+  float: right;
+ }
