@@ -1,9 +1,14 @@
-.nav-wrapper {
+.nav-wrapper, .brand-log {
   background-color: rgb(29, 28, 29);
   font-family: 'Raleway', sans-serif;
+  color: rgb(117, 60, 157);
+
 
 }
 
+a {
+  color: rgb(117, 60, 157);
+}
 .
 .page-footer {
   background-color: rgb(29, 28, 29);
@@ -18,7 +23,8 @@
   margin: 10px;
 }
 body {
-  background-color: rgb(26, 27, 25);
+  background: linear-gradient(to bottom, #1a1b19, #282829);
+
 }
 h3, h4 {
   font-family: 'Questrial', sans-serif;
