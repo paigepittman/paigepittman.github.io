@@ -1,9 +1,13 @@
 .nav-wrapper, .brand-log {
-  background-color: rgb(29, 28, 29);
+  background: linear-gradient(to top, rgba(61, 2, 145, 1), rgba(85, 0, 224, 1));
   font-family: 'Raleway', sans-serif;
   color: rgb(117, 60, 157);
 
 
+}
+
+nav {
+  height: 300px;
 }
 
 a {
@@ -14,6 +18,18 @@ a {
   background-color: rgb(29, 28, 29);
 
 }
+.brand-logo {
+  margin-top: 180px;
+  margin-left: 20px;
+
+}
+a.brand-logo {
+  font-size: 90px;
+}
+
+.links {
+  font-size: 30px;
+}
 
 .card-image {
   overflow: hidden;
@@ -23,7 +39,7 @@ a {
   margin: 10px;
 }
 body {
-  background: linear-gradient(to bottom, #1a1b19, #282829);
+  background-color: white;
 
 }
 h3, h4 {
