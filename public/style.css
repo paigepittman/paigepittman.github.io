@@ -1,0 +1,132 @@
+/*font-family: 'Clicker Script', cursive;
+font-family: 'Pavanam', sans-serif;
+font-family: 'Handlee', cursive;
+font-family: 'Shadows Into Light Two', cursive;
+font-family: 'Dawning of a New Day', cursive;
+font-family: 'Tenali Ramakrishna', sans-serif;*/
+/*font-family: 'Coming Soon', cursive;
+font-family: 'Zeyada', cursive;
+font-family: 'The Girl Next Door', cursive;
+font-family: 'Give You Glory', cursive;*/
+
+
+.title {
+  font-family: 'Covered By Your Grace', cursive;
+}
+
+.title:hover {
+  color: rgb(250, 76, 160);
+}
+
+.navs {
+  margin-top: -100px;
+  float: right;
+}
+
+body {
+  font-family: 'Pavanam', sans-serif;
+
+}
+ul.navs li {
+  display: inline;
+}
+.container {
+  width: 100%;
+}
+
+.card-image {
+  overflow: hidden;
+}
+
+.port-page {
+  width: 90%;
+  margin: auto;
+}
+
+.portfolio-panel {
+  width: 90%;
+  margin: auto;
+}
+
+.card {
+  margin: 12px;
+
+}
+
+.aboutme {
+  width: 50%;
+  float: left;
+
+}
+
+.btn {
+  background-color: black;
+  margin: 5px;
+  text-transform: lowercase;
+  font-family: 'Pavanam', sans-serif;
+
+
+
+}
+a {
+  font-family: 'Pavanam', sans-serif;
+  text-transform: lowercase;
+
+}
+
+.btn:focus {
+  background-color: black;
+}
+
+.contact:hover {
+  background-color: rgba(95, 1, 189, 0.5);
+}
+
+.home:hover {
+  background-color: rgba(8, 232, 238, 0.5);
+}
+
+.port:hover {
+  background-color: rgba(255, 0, 153, 0.5);
+}
+
+.logo-lines {
+  top: -100px;
+  margin: 2px;
+  border-width: .5px;
+  margin-bottom: 30px;
+}
+ #pink {
+   border-color: rgba(255, 75, 183, 1);
+ }
+
+ /*#purple {
+   border-color: rgba(95, 1, 189, 0.5);
+ }
+
+ #blue {
+   border-color: rgba(8, 232, 238, .5);
+ }*/
+
+
+.skills {
+  width: 35%;
+  float: right;
+  height: 35%;
+  padding: 20px;
+}
+
+.about-page {
+  width: 70%;
+  margin: auto;
+}
+
+.list2 {
+  position: relative;
+  float: right;
+  padding-right: 35px;
+}
+.list {
+  float: left;
+  padding-left: 35px;
+}
