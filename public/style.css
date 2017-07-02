@@ -1,0 +1,186 @@
+/*font-family: 'Clicker Script', cursive;
+font-family: 'Pavanam', sans-serif;
+font-family: 'Handlee', cursive;
+font-family: 'Shadows Into Light Two', cursive;
+font-family: 'Dawning of a New Day', cursive;
+font-family: 'Tenali Ramakrishna', sans-serif;*/
+/*font-family: 'Coming Soon', cursive;
+font-family: 'Zeyada', cursive;
+font-family: 'The Girl Next Door', cursive;
+font-family: 'Give You Glory', cursive;*/
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+  min-height: 100%;
+}
+
+
+
+.title {
+  font-family: 'Covered By Your Grace', cursive;
+  color: rgb(250, 76, 160);
+}
+
+#name:hover {
+  color: black;
+}
+
+.navs {
+  margin-top: -100px;
+  float: right;
+}
+main {
+  min-height: 100%;
+}
+
+body {
+  font-family: 'Pavanam', sans-serif;
+
+}
+ul.navs li {
+  display: inline;
+}
+.container {
+  width: 100%;
+  min-height: 100%;
+}
+
+.card-image {
+  overflow: hidden;
+}
+
+.port-page {
+  width: 90%;
+  margin: auto;
+}
+
+.portfolio-panel {
+  width: 90%;
+  margin: auto;
+  border-style: none;
+}
+
+.card {
+  margin: 12px;
+  border-style: solid;
+
+}
+
+.aboutme {
+  width: 50%;
+  float: left;
+  border-style: solid;
+}
+
+.btn {
+  background-color: black;
+  margin: 5px;
+  text-transform: lowercase;
+  font-family: 'Pavanam', sans-serif;
+
+
+
+}
+a {
+  font-family: 'Pavanam', sans-serif;
+  text-transform: lowercase;
+
+}
+
+.btn:focus {
+  background-color: black;
+}
+
+.contact:hover {
+  background-color: rgb(250, 76, 160);
+}
+
+.home:hover {
+  background-color: rgb(250, 76, 160);
+}
+
+.port:hover {
+  background-color: rgb(250, 76, 160);
+}
+
+.logo-lines {
+  top: -100px;
+  margin: 2px;
+  border-width: .5px;
+  margin-bottom: 30px;
+}
+
+ #pink {
+   background-color: rgb(250, 76, 160);
+ }
+
+
+
+.skills {
+  margin-top: 12px;
+  width: 35%;
+  float: right;
+  height: 35%;
+  padding: 20px;
+  border-style: solid;
+}
+
+.page-footer {
+  background-color: white;
+  position: relative;
+  margin-bottom: 0;
+  height: 20%;
+
+}
+a {
+  color: black;
+}
+
+a:hover {
+  color: rgb(250, 76, 160);
+}
+
+.about-page {
+  width: 70%;
+  height: 100%;
+  margin: auto;
+}
+
+.list2 {
+  position: relative;
+  float: right;
+  padding-right: 35px;
+}
+.list {
+  float: left;
+  padding-left: 35px;
+}
+
+.contactbox {
+  border-style: solid;
+  width: 40%;
+  margin: auto;
+  padding-left: 20px;
+  padding-bottom: 30px;
+}
+
+.links a {
+  font-size: 20px;
+}
+
+.links i {
+  font-size: 24px;
+}
+
+.contactme {
+  height: 100%;
+}
+
+.body-row {
+  height: 100%;
+}
