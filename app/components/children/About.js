@@ -16,8 +16,7 @@ var About = React.createClass({
             <div className="card-panel skills">
               <div className="card-content">
                 <center>
-                  <h5 className="title">skills</h5>
-                  <hr/>
+                  <h5 className="title" id="skills-header">skills</h5>
                   <div className="list">
                     <ul>
                       <li>

@@ -5,7 +5,7 @@ var Portfolio = React.createClass({
     return (
       <div className="container">
         <div className="col-lg-12 port-page">
-          <div className="card-panel portfolio-panel">
+          <div className="portfolio-panel">
             <div className="panel-heading">
               <h3 className="panel-title title">my projects</h3>
             </div>
@@ -71,7 +71,7 @@ var Portfolio = React.createClass({
                       <h5 className="title">Burger Buddy</h5>
                       <a href="https://safe-badlands-36347.herokuapp.com/">VIEW SITE</a> | <a href="https://github.com/paigepittman/train-times">VIEW CODE</a>
 
-                      <p>Burger Buddy allows the user to 'eat', 'order' and 'build your own burger' through sequelize and a sql database</p><br/>
+                      <p>Burger Buddy allows the user to 'eat', 'order' and 'build your own burger' through sequelize and a sql database</p><br/><br/>
                       Role: Sole Developer<br/>
 
                     </div>
@@ -88,7 +88,7 @@ var Portfolio = React.createClass({
                     <div className="card-content">
                       <h5 className="title">Crystal Collector</h5>
                       <a href="https://paigepittman.github.io/week-4-game/">VIEW SITE</a> | <a href="https://github.com/paigepittman/train-times">VIEW CODE</a>
-                      <p>Crystal Collector allows the user to pick crystals with random values to try to get a pre-determined score without going over</p><br/>
+                      <p>Crystal Collector allows the user to pick crystals with random values to try to get a pre-determined score without going over</p><br/><br/>
                       Role: Sole Developer<br/>
                     </div>
                     {/* <!-- <div className="card-action">
@@ -106,7 +106,7 @@ var Portfolio = React.createClass({
                       <a href="https://paigepittman.github.io/TriviaGame/">VIEW SITE</a> | <a href="https://github.com/paigepittman/train-times">VIEW CODE</a>
 
                       <p>JavaScript based trivia game
-                      </p><br/><br/><br/>
+                      </p><br/><br/><br/><br/>
                       Role: Sole Developer<br/>
                     </div>
                     {/* <!-- <div className="card-action">
@@ -126,7 +126,7 @@ var Portfolio = React.createClass({
                       <h5 className="title">giftastic</h5>
                       <a href="https://paigepittman.github.io/giftastic/">VIEW SITE</a> | <a href="https://github.com/paigepittman/train-times">VIEW CODE</a>
 
-                      <p>JavaScript application using the Giphy API to generate random gifs and create custom buttons for gif categories.</p><br/><br/>
+                      <p>JavaScript application using the Giphy API to generate random gifs and create custom buttons for gif categories.</p><br/><br/><br/>
                       Role: Sole Developer<br/>
                     </div>
                     {/* <!-- <div className="card-action">
@@ -144,7 +144,7 @@ var Portfolio = React.createClass({
                       <h5 className="title">Train Times</h5>
                       <a href="https://paigepittman.github.io/train-times/">VIEW SITE</a> | <a href="https://github.com/paigepittman/train-times">VIEW CODE</a>
 
-                      <p>JavaScript application using a firebase database to store train times. Users can add new trains and their next arrivals will be automatically calcuated for the user.</p><br/>
+                      <p>JavaScript application using a firebase database to store train times. Users can add new trains and their next arrivals will be automatically calcuated for the user.</p><br/><br/>
                       Role: Sole Developer<br/>
                     </div>
                     {/* <!-- <div className="card-action">
@@ -161,7 +161,7 @@ var Portfolio = React.createClass({
                       <h5 className="title">Flashcard Generator</h5>
                       <a href="https://github.com/paigepittman/flashcard-generator">VIEW CODE</a>
 
-                      <p>Node application for creating flashcards with the option to use fill in the blank cards or basic.</p><br/><br/>
+                      <p>Node application for creating flashcards with the option to use fill in the blank cards or basic.</p><br/><br/><br/>
                       Role: Sole Developer<br/>
                     </div>
                     {/* <!-- <div className="card-action">
