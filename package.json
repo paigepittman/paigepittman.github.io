@@ -4,9 +4,10 @@
   "description": "portfolio built in react",
   "main": "webpack.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
+    "dev": "webpack -w",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+},
   "author": "Paige Pittman",
   "license": "ISC",
   "dependencies": {
